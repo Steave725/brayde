@@ -1,0 +1,13 @@
+high level languages
+lowlevel
+
+architecture 
+  client  server
+	frontend html, css,javascript  react angular, vue
+        backend  python, java, javascript nodejs, java,
+        db  relational  
+
+            non=relation
+     
+git
+cmd
